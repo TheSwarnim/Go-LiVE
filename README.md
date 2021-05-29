@@ -7,7 +7,7 @@ Go-LiVE is an open-source, free-to-use real-time video conference web app. It ca
 
 ## Installation
 
-Use the package manager [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/) to install Attendlt. (Recommanded yarn)
+Use the package manager [yarn](https://yarnpkg.com/) or [npm](https://www.npmjs.com/) to install download the dependencies of Go-LiVE. (Recommanded yarn)
 
 ```bash
 yarn
